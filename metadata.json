@@ -1,0 +1,7 @@
+{
+  "name": "Swasthya Saarthi",
+  "description": "A comprehensive health companion for students, featuring AI-powered symptom checking, medicine information, and a radar-based doctor discovery system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
